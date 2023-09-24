@@ -1,6 +1,6 @@
 # NCSP-PLM
-NCSP-PLM was developed for the prediction of non-classical secreted proteins. 
-![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/hollymmm/NCSP-PLM/blob/master/1.jpg))
+NCSP-PLM was developed for the prediction of non-classical secreted proteins.    
+![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/hollymmm/NCSP-PLM/blob/master/1.jpg))    
 
 
 # Requirements
