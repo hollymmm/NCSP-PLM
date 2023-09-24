@@ -1,8 +1,6 @@
 # NCSP-PLM
 NCSP-PLM was developed for the prediction of non-classical secreted proteins.    
-<img src="https://github.com/hollymmm/NCSP-PLM/blob/master/1.jpg
-" width="200" height="200"/><br/>
-  
+
 
 
 # Requirements
