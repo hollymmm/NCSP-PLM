@@ -1,5 +1,5 @@
 # NCSP-PLM
-iPVP-MCV was developed for the prediction of non-classical secreted proteins. 
+NCSP-PLM was developed for the prediction of non-classical secreted proteins. 
 
 # Requirements
 
